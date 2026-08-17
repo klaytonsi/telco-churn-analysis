@@ -9,7 +9,7 @@
 
 🔗 **[Acesse o dashboard interativo no Looker Studio](https://datastudio.google.com/reporting/7429be75-9dfb-4801-b746-f1cefff852da)**
 
-![Dashboard completo com KPIs, segmentação por contrato e importância das variáveis](imagens/dashboard_hero.jpg)
+![Dashboard completo com KPIs, segmentação por contrato e importância das variáveis](images/dashboard_hero.jpg)
 
 ---
 
@@ -31,7 +31,7 @@ A análise (validada tanto pela exploração dos dados quanto pelos dois modelos
 | **Forma de pagamento (boleto eletrônico)** | Clientes que pagam por *electronic check* cancelam mais que os demais métodos |
 | **Gasto mensal elevado** | Mensalidades mais altas aumentam a probabilidade de cancelamento |
 
-![Detalhe: taxa de churn por tipo de contrato](imagens/contract_churn_insight.jpg)
+![Detalhe: taxa de churn por tipo de contrato](images/contract_churn_insight.jpg)
 
 > 📊 Um ponto de atenção documentado na análise: existe multicolinearidade entre a variável `tenure` (bruta) e a variável derivada `Tenure_Group`, o que foi tratado e registrado no relatório técnico para não distorcer a interpretação dos coeficientes do modelo.
 
