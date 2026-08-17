@@ -1,0 +1,17 @@
+Segmento;Valor;Taxa_Churn;Total_Clientes
+Contract;Month-to-month;42,71;3875
+Contract;One year;11,27;1473
+Contract;Two year;2,83;1695
+InternetService;DSL;18,96;2421
+InternetService;Fiber optic;41,89;3096
+InternetService;No;7,4;1526
+PaymentMethod;Bank transfer (automatic);16,71;1544
+PaymentMethod;Credit card (automatic);15,24;1522
+PaymentMethod;Electronic check;45,29;2365
+PaymentMethod;Mailed check;19,11;1612
+Tenure_Group;0-1 Ano;47,44;2186
+Tenure_Group;1-2 Anos;28,71;1024
+Tenure_Group;2-4 Anos;20,39;1594
+Tenure_Group;4+ Anos;9,51;2239
+SeniorCitizen;0;23,61;5901
+SeniorCitizen;1;41,68;1142
