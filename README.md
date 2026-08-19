@@ -9,6 +9,8 @@
 
 🔗 **[Acesse o dashboard interativo no Looker Studio](https://datastudio.google.com/reporting/7429be75-9dfb-4801-b746-f1cefff852da)**
 
+📓 **Notebook completo no Kaggle:** [Análise Preditiva de Churn — Telco Customer Churn](https://www.kaggle.com/code/klaytonsilva/an-lise-preditiva-de-churn-telco-customer-churn)
+
 ![Dashboard completo com KPIs, segmentação por contrato e importância das variáveis](images/dashboard_hero.jpg)
 
 ---
