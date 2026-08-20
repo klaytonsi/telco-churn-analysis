@@ -17,8 +17,7 @@
 
 ## 🎯 Sobre o projeto
 
-Este é um projeto de ponta a ponta (end-to-end) de Ciência de Dados, desenvolvido **100% em ambiente mobile** (Android), analisando o dataset público *Telco Customer Churn* (Kaggle) para responder à pergunta: **por que os clientes cancelam, e quem são os próximos com maior risco de sair?**
-
+Este é um projeto de ponta a ponta (end-to-end) de Ciência de Dados, analisando o dataset público Telco Customer Churn (Kaggle) para responder à pergunta: por que os clientes cancelam, e quem são os próximos com maior risco de sair?
 O projeto cobre todo o ciclo: limpeza e tratamento de dados (ETL), análise exploratória, modelagem preditiva com Machine Learning, dashboard interativo e relatório de negócio com recomendações acionáveis.
 
 ## 🔑 Principais Insights
