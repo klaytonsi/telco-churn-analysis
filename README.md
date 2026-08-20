@@ -38,7 +38,7 @@ A análise (validada tanto pela exploração dos dados quanto pelos dois modelos
 
 ## 🛠️ Tecnologias e Ferramentas
 
-Todo o projeto foi construído em fluxo **100% gratuito e mobile**:
+Todo o projeto foi construído em fluxo **Todo o projeto foi construído em fluxo 100% gratuito:**:
 
 - **Linguagem:** Python (Pandas, NumPy, Scikit-learn)
 - **Execução:** Google Colab
