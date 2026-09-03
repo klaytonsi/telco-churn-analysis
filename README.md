@@ -43,7 +43,7 @@ Todo o projeto foi construído em fluxo **Todo o projeto foi construído em flux
 - **Linguagem:** Python (Pandas, NumPy, Scikit-learn)
 - **Execução:** Google Colab
 - **Modelagem:** Regressão Logística + Random Forest
-- **Dashboard:** Google Looker Studio (alternativa gratuita e mobile-friendly ao Power BI, que não roda em Android)
+- **Dashboard:** Google Looker Studio
 - **Ponte de dados:** Google Sheets
 - **Relatório final:** Microsoft Word
 - **Versionamento:** Git e GitHub
