@@ -7,11 +7,7 @@
 
 **Identifiquei os 5 principais fatores que levam clientes a cancelar o serviço em uma operadora de telecom, com um modelo preditivo de 84% de AUC-ROC, permitindo à empresa priorizar ações de retenção nos clientes de maior risco.**
 
-🔗 **[Acesse o dashboard interativo no Looker Studio](https://datastudio.google.com/reporting/7429be75-9dfb-4801-b746-f1cefff852da)**
-
 📓 **Notebook completo no Kaggle:** [Análise Preditiva de Churn — Telco Customer Churn](https://www.kaggle.com/code/klaytonsilva/an-lise-preditiva-de-churn-telco-customer-churn)
-
-![Dashboard completo com KPIs, segmentação por contrato e importância das variáveis](images/dashboard_hero.jpg)
 
 ---
 
