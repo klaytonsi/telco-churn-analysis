@@ -58,8 +58,6 @@ Todo o projeto foi construído em fluxo **Todo o projeto foi construído em flux
 
 O dashboard permite explorar a taxa de churn segmentada por Contrato, Tipo de Internet, Forma de Pagamento, Faixa de Tempo de Contrato e Perfil de Idade (Senior Citizen), além de visualizar as variáveis mais importantes segundo o modelo.
 
-🔗 **Acesse o dashboard:** [Looker Studio — Análise de Churn](https://datastudio.google.com/reporting/7429be75-9dfb-4801-b746-f1cefff852da)
-
 ## 💡 Recomendações de Negócio
 
 - **Retenção:** priorizar contato proativo com clientes em contrato mensal nos primeiros meses de relacionamento, oferecendo incentivo para migração a contratos anuais.
